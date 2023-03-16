@@ -59,6 +59,9 @@
           return choices.includes(choice);
         }
 
+        function checkWinner(){
+          
+        }
         game ();
 
         
